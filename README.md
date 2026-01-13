@@ -142,11 +142,19 @@ PREDICTIVE-PRESCRIPTIVE-ANALYTICS
 ├── notebooks
 ├── requirements.txt
 └── README.md
+
+```
+
+---
+
 🌟 Learning Outcomes
 By completing this lab, students will be able to analyze datasets, build predictive models, and apply optimization techniques to make data-driven decisions in real-world business and engineering problems.
+
+---
 
 👨‍💻 Author
 Harish Kumar V
 B.Tech – Artificial Intelligence & Machine Learning
 Rajalakshmi Engineering College
+
 ---
