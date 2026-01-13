@@ -4,14 +4,6 @@ Academic lab repository for Predictive and Prescriptive Analytics, focusing on d
 
 ---
 
-Perfect — this will be your **Subject-2 repository** in the **same premium GitHub style** you used for Generative AI.
-Below is your **full, ready-to-paste README.md** for:
-
-# **PREDICTIVE AND PRESCRIPTIVE ANALYTICS (AI23631)**
-
----
-
-````markdown
 <p align="center">
   <img src="https://img.shields.io/badge/Predictive%20Analytics-AI23631-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Prescriptive%20Analytics-Optimization-orange?style=for-the-badge">
@@ -150,20 +142,11 @@ PREDICTIVE-PRESCRIPTIVE-ANALYTICS
 ├── notebooks
 ├── requirements.txt
 └── README.md
-````
-
----
-
-## 🌟 Learning Outcomes
-
+🌟 Learning Outcomes
 By completing this lab, students will be able to analyze datasets, build predictive models, and apply optimization techniques to make data-driven decisions in real-world business and engineering problems.
 
----
-
-## 👨‍💻 Author
-
-**Harish Kumar V**
+👨‍💻 Author
+Harish Kumar V
 B.Tech – Artificial Intelligence & Machine Learning
 Rajalakshmi Engineering College
-
 ---
